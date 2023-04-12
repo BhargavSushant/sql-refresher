@@ -1,3 +1,6 @@
+# Following Queries are written for the following database schema as per requirements mentioned in reademe.md file
+# Output of Following queries are also mentioned in the respective csv file with the same serial number as the query.
+
 # 1. List the top 10 customers who have placed the most orders, along with their contact information and total amount spent on all orders.
 SELECT
     c.first_name,
@@ -76,7 +79,9 @@ GROUP BY
     p.name;
 
 #===================================================================
-## 6. 
+## 6. Identify the top 5 employees who have the highest sales revenue in the current year, along with their contact information and total amount of commission earned.
+
+
 ## since commission_rate column was not in the schema altering the table now
 ##
 #-- Add the new column

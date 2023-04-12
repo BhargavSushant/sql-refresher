@@ -1,0 +1,4 @@
+employee_id,first_name,last_name,email,total_commission_earned
+2,John,Doe,johndoe@example.com,0.10993000
+1,Tom,Jones,tomjones@example.com,0.07496000
+3,Jane,Smith,janesmith@example.com,0.05596800
